@@ -78,7 +78,7 @@ a:active {
 }
 
 .logo-header {
-  color: #404bbf;
+  color: #4D5AE5;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
@@ -88,7 +88,6 @@ a:active {
   letter-spacing: 0.54px;
   text-transform: uppercase;
   margin-right: 76px;
-  position: relative;
 }
 
 .studio {
@@ -112,6 +111,7 @@ a:active {
 
 .nav-links {
   padding: 24px 0;
+  position: relative;
 }
 
 .nav-links:active {
